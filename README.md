@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 개발자 [Your Name]입니다!
+# 👋 안녕하세요, 개발자 유태의입니다!
 
 ## 🛠 Tech Stack
 ### Languages
@@ -23,19 +23,5 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🌱 Projects
-### [Project Name] - 주요 프로젝트 명
-- 프로젝트 간단 설명
-- 사용 기술: `Python` `Django` `MySQL` `Docker`
-- [자세히 보기](GitHub 레포지토리 링크)
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
 ## 📫 Contact
-- Email: your.email@example.com
-- Blog: [블로그 링크]
-- LinkedIn: [링크드인 프로필 링크]
-
----
-⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
+- Email: xodml9598@naver.com
